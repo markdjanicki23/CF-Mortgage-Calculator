@@ -14,8 +14,6 @@
     <div class="row">
         <div class="col">
             <div class="container">
-                <div class="row">
-                </div>
                 <hr />
                 <div class="row">
                     <div class="col-4" style="border: black 2px solid;" id="left-input">
@@ -23,13 +21,13 @@
                             <div class="col text-center">
                                 <hr />
                                 <span>Loan Amount: </span>
-                                <input type="text" id="loanInput" />
+                                <input type="text" id="amount" />
                                 <hr />
                                 <span>Term(Months): </span>
-                                <input type="text" id="termInput" />
+                                <input type="text" id="months" />
                                 <hr />
                                 <span>Interest Rate: </span>
-                                <input type="text" id="rateInput" />
+                                <input type="text" id="rate" />
                                 <hr />
                                 <button class="btn btn-dark" onclick="homeLoan()">Do Math</button>
                             </div>
@@ -74,6 +72,22 @@
                     </div>
                 </div>
             </div>
+
+            <table id="tbl_result">
+                <thead>
+                    <tr>
+                        <th>Month</th>
+                        <th>Principal</th>
+                        <th>Interest</th>
+                        <th>Balance</th>
+                    </tr>
+                </thead>
+                <tbody id="tbl_body">
+                </tbody>
+            </table>
+
+
+
         </div>
     </div>
     <!--Bootstrap / Javascript-->
