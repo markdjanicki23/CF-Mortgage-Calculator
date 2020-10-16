@@ -67,12 +67,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\animate.min.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\custom.css" />
+    <Content Include="Content\light-bootstrap-dashboard.css" />
+    <Content Include="Content\pe-icon-7-stroke.css" />
+    <Content Include="dashboard.html" />
     <Content Include="Index.html" />
+    <Content Include="Scripts\bootstrap-notify.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\chartist.min.js" />
     <Content Include="Scripts\custom.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
+    <Content Include="Scripts\jquery.3.2.1.min.js" />
+    <Content Include="Scripts\light-bootstrap-dashboard.js" />
+    <Content Include="table.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
