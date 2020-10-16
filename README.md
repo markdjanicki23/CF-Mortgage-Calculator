@@ -139,11 +139,11 @@ CF-Mortgage-Calculator is created by contributors and is welcome for any more co
 5. Open a Pull Request
 
 ## Contributors
-<br/>
-* [Mark Janicki]('https://github.com/markdjanicki23')
-<br/>
+
+* [Mark Janicki](https://github.com/markdjanicki23)
+
 * [MacColl Nicolson](https://github.com/MNicolso)
-<br/>
+
 * [Ethan Jones](https://github.com/jonesethan91)
 
 <!-- CONTACT -->
