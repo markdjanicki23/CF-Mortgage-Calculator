@@ -70,6 +70,7 @@
     <Content Include="Content\animate.min.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\custom.css" />
+    <Content Include="Content\Favicon.png" />
     <Content Include="Content\light-bootstrap-dashboard.css" />
     <Content Include="Content\pe-icon-7-stroke.css" />
     <Content Include="dashboard.html" />
