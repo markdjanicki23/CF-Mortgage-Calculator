@@ -17,7 +17,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/markdjanicki23/CF-Mortgage-Calculator/graphs/contributors]
+[![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 
 
@@ -33,8 +33,8 @@
 </h3>
 
   <p align="center">
-   A great interest rate application to keep track of payments on coding bootcamp loans!
-
+   A great interest rate application to keep track of loans payments for coding bootcamp!
+<br/>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Site</a>
@@ -133,9 +133,9 @@ CF-Mortgage-Calculator is created by contributors and is welcome for any more co
 
 
 1. Fork the Project
-2. Create your Feature Branch [How to branch](`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes [How to commit](`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch [How to push](`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch [How to branch](git checkout -b feature/AmazingFeature)
+3. Commit your Changes [How to commit](git commit -m 'Add some AmazingFeature')
+4. Push to the Branch [How to push](git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
 ## Contributors
